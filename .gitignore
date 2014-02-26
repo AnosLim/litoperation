@@ -1,2 +1,3 @@
 build/*
-test/support
+!build/README.txt
+test/support/README.txt
